@@ -978,4 +978,14 @@
     <Type>Script</Type>
     <Description>Load Removal is available. (By Kotti)</Description>
   </AutoSplitter>
+  <Autosplitter>
+    <Games>
+     <Game>Super Hipster Lumberjack</Game>
+      <URLs>
+        <URL>https://raw.githubusercontent.com/PessimisticMango/SuperHipsterLumberjack/master/shl.asl</URL>
+      </URLs>
+      <Type>Script</Type>
+      <Description>Automatic Timer Start and Auto Splitting are available for Steam version. (By Pessimistic Mango)</Description>
+    </Games>
+  </Autosplitter>
 </AutoSplitters>
