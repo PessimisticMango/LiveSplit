@@ -2,6 +2,16 @@
 <AutoSplitters>
 <AutoSplitter>
 	<Games>
+		<Game>Super Hipster Lumberjack</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/PessimisticMango/SuperHipsterLumberjack/master/shl.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Auto Splitting is available. (By Pessimistic Mango)</Description>
+</AutoSplitter>	
+<AutoSplitter>
+	<Games>
 		<Game>Call of Duty: World at War</Game>
 	</Games>
 	<URLs>
